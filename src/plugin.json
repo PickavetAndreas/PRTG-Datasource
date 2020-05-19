@@ -1,18 +1,18 @@
 {
   "type": "datasource",
-  "name": "Grafana Data Source Plugin Template",
-  "id": "myorgid-simple-datasource",
+  "name": "PRTG Datasource",
+  "id": "prtg-datasource",
   "metrics": true,
 
   "info": {
-    "description": "Grafana Data Source Plugin Template",
+    "description": "Grafana Data Source for PRTG data",
     "author": {
-      "name": "Your Name"
+      "name": "Andreas Pickavet"
     },
     "keywords": ["Simple"],
     "logos": {
-      "small": "img/logo.svg",
-      "large": "img/logo.svg"
+      "small": "img/prtg-logo.png",
+      "large": "img/prtg-logo.png"
     },
     "links": [
       { "name": "Website", "url": "https://github.com/grafana/simple-datasource" },
